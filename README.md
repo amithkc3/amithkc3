@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amithkumarc3
+- 👋 Hi, I’m Amith
 - 👀 I’m interested in Programming, Image Processing, Chess, Piano, Deep learning
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Image Processing, NLP 
